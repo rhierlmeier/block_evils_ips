@@ -7,7 +7,7 @@ IPTABLES_RULE_NUM=1
 usage() {
 
   cat <<EOF
-   block_list_ips.sh [<options] <URL>  
+   block_evil_ips.sh [<options] <URL>  
 
    Options:
 
